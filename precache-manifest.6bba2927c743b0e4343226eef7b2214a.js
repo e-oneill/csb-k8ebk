@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acfafb8cb28ae7c402a98c02b0a0a8a1",
+    "revision": "584cdb41d5138e64de27268bc979df8c",
     "url": "https://e-oneill.github.io/csb-k8ebk/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://e-oneill.github.io/csb-k8ebk/static/css/2.21a569c4.chunk.css"
   },
   {
-    "revision": "82442ef9402dc0710eaa",
+    "revision": "f26c245a4338bf124bb4",
     "url": "https://e-oneill.github.io/csb-k8ebk/static/css/main.0a6a39fd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://e-oneill.github.io/csb-k8ebk/static/js/2.a5ccb1ff.chunk.js"
   },
   {
-    "revision": "82442ef9402dc0710eaa",
-    "url": "https://e-oneill.github.io/csb-k8ebk/static/js/main.dccb8b12.chunk.js"
+    "revision": "f26c245a4338bf124bb4",
+    "url": "https://e-oneill.github.io/csb-k8ebk/static/js/main.a822dfb7.chunk.js"
   },
   {
     "revision": "008300eb0242a8844293",
